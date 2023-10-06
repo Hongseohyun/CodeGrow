@@ -40,5 +40,21 @@ CodeGrow 프로젝트는 웹 개발자들을 위한 온라인 학습 플랫폼�
 <p align="left">
 </p>
 
+![슬라이드1](https://github.com/Hongseohyun/CodeGrow/assets/96035605/616df748-c410-4d26-bfb2-a798a3c4feb8)
+![슬라이드3](https://github.com/Hongseohyun/CodeGrow/assets/96035605/9f132cd7-1c1f-44b4-9b4a-d5307b26b809)
+![슬라이드4](https://github.com/Hongseohyun/CodeGrow/assets/96035605/f788231e-e7cb-4845-97a8-0d7eedca0478)
+![슬라이드5](https://github.com/Hongseohyun/CodeGrow/assets/96035605/b9b295e0-5fe0-4316-93f4-0b484a5780ec)
+![슬라이드6](https://github.com/Hongseohyun/CodeGrow/assets/96035605/ef4e118f-e38e-4ffb-965f-cdbecf612d29)
+![슬라이드7](https://github.com/Hongseohyun/CodeGrow/assets/96035605/37bd5ad7-cda4-4db8-8adf-b21d189a7043)
+![슬라이드8](https://github.com/Hongseohyun/CodeGrow/assets/96035605/f467f9b6-63e0-4128-b3b5-469f48a09807)
+![슬라이드9](https://github.com/Hongseohyun/CodeGrow/assets/96035605/3bc6cd51-ab6d-48c8-ada3-cd1747516acf)
+![슬라이드10](https://github.com/Hongseohyun/CodeGrow/assets/96035605/745a8f3c-58dd-489b-97f0-8fd3c36e4b1b)
+![슬라이드11](https://github.com/Hongseohyun/CodeGrow/assets/96035605/a9981abb-9537-4b73-98c2-3eed3e186316)
+![슬라이드12](https://github.com/Hongseohyun/CodeGrow/assets/96035605/6979378f-960b-4faf-b1d3-0701b3b08590)
+![슬라이드13](https://github.com/Hongseohyun/CodeGrow/assets/96035605/2d013864-7376-441e-aa74-1a7085a52579)
+![슬라이드14](https://github.com/Hongseohyun/CodeGrow/assets/96035605/8d0e52bd-991f-43c8-81df-9dd9322fa3c0)
+![슬라이드15](https://github.com/Hongseohyun/CodeGrow/assets/96035605/c37cc5f3-e644-4455-a5d8-812bb6c267f7)
+![슬라이드16](https://github.com/Hongseohyun/CodeGrow/assets/96035605/de78438a-5cb7-4e63-af1e-009362b32e92)
+
 
 
